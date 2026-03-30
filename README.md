@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Saif Ali
 
-<!--
-**CEOZentexaSolutions/CEOZentexaSolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 CEO & Founder - Zentexa Solutions
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I lead Zentexa Solutions, providing innovative digital services worldwide.
+
+---
+
+### 💼 Our Services
+
+- 💻 Software Development & SaaS Solutions  
+- 🚚 USA Trucking Dispatch Services  
+- 🎓 Professional IT Training Programs  
+- 📚 International Journal Publishing  
+
+---
+
+### 🌍 Our Mission
+
+To build scalable, innovative, and global digital solutions that empower businesses and individuals.
+
+---
+
+### 🔗 Website
+
+https://zentexasolutions.com
+
+---
+
+### 📫 Contact
+
+info@zentexasolutions.com
